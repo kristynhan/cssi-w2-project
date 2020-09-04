@@ -1,0 +1,16 @@
+Multiplayer project:
+https://glitch.com/edit/#!/join/2df1dc64-36da-472e-ba91-5ee857643097
+https://multiplayer-group.glitch.me/host.html
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_5_free_tetrominoes.svg/1200px-All_5_free_tetrominoes.svg.png
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2Wpiq2Zv5tovX-CMM7R_Xx2ipvli-Pir75A&usqp=CAU
+
+https://tetris.fandom.com/wiki/SRS
+
+https://stackoverflow.com/questions/233850/tetris-piece-rotation-algorithm
+
+https://stackoverflow.com/questions/42519/how-do-you-rotate-a-two-dimensional-array/8664879#8664879
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tetrominoes_IJLO_STZ_Worlds.svg/2560px-Tetrominoes_IJLO_STZ_Worlds.svg.png
